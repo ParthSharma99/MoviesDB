@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#302F2F</color>
+    <color name="colorAccent">#68A9C6</color>
+    <color name="author_textView_background">#EEEEEC</color>
+    <color name="movie_item_text_background">#69B1B7</color>
+</resources>
